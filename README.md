@@ -1,2 +1,5 @@
-👋 I'm Tharun Raj(Tharun-dev)...
-💗 I love web development. I'm currently learning it...
+# Hello!
+I'm Tharun Raj ♥.
+
+## Currently learning
+- React JS ⚛
