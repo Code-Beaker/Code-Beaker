@@ -1,5 +1,5 @@
 # Hello!
-I'm Tharun Raj ♥. From Kerala, India 🏠. I'm a student 🎒 as well as a beginner web-developer 🌐.
+I'm Tharun Raj ♥. From Kerala, India 🏠. I'm a student 🎒 as well as a beginner Frontend Developer 🌐
 
 ## Currently Learning
 - Javascript 💛
